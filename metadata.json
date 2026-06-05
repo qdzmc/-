@@ -1,0 +1,6 @@
+{
+  "name": "校园预约与访客通行平台",
+  "description": "一套适用于学校的校园预约与访客管理、门岗核验及大屏看守系统。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
